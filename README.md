@@ -29,4 +29,6 @@ _<em> An aspiring JAVA Backend Developer, having willingness to walk extra miles
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
 </p>
-| <a href="https://github.com/thesharmaa/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=thesharmaa&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Kevin's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinfengcs88&theme=github_dark&layout=compact&hide_border=true" /></a> |
+</br>
+# My Gihub Stats
+<a href="https://github.com/thesharmaa/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=thesharmaa&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Aman's github stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesharmaa8&theme=github_dark&layout=compact&hide_border=true" /></a>
