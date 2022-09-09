@@ -33,5 +33,5 @@
 
 ## My Github Stats:
 </br>
-<a href="https://github.com/thesharmaa/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=thesharmaa&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Kevin's github stats" width=380px /></a> <a href="https://github.com/thesharmaa/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesharmaa&theme=github_dark&layout=compact&hide_border=true" /></a>
+<a href="https://github.com/thesharmaa/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=thesharmaa&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Kevin's github stats" width=470px /></a> <a href="https://github.com/thesharmaa/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesharmaa&theme=github_dark&layout=compact&hide_border=true" width=430px/></a>
 
