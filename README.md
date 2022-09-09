@@ -4,20 +4,7 @@
 _<em> An aspiring JAVA Backend Developer, having willingness to walk extra miles to achieve my goals. Currently pursuing Full Stack Web Development programme of 30 weeks in Masai School</em> _
 
 
-
-
-
-
-
-
-
-
-
 ![](https://komarev.com/ghpvc/?username=thesharmaa)
-
-
-
-
 
 
 
