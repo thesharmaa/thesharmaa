@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋 I'm Aman Sharma</h1>
 
 
-_<em> An aspiring JAVA Backend Developer, having willingness to walk extra miles to achieve my goals. Currently pursuing Full Stack Web Development programme of 30 weeks in Masai School</em> _
+-<em> An aspiring JAVA Backend Developer, having willingness to walk extra miles to achieve my goals. Currently pursuing Full Stack Web Development programme of 30 weeks in Masai School</em> 
 
 
 ![](https://komarev.com/ghpvc/?username=thesharmaa)
 
 
 
-<img align="center">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thesharmaa)](https://git.io/streak-stats)</img>
 
 ## ✉️ Find me on:
 
@@ -19,7 +18,7 @@ _<em> An aspiring JAVA Backend Developer, having willingness to walk extra miles
  <a href="sharmaamanjsr@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
-<br />
+</br>
 
 ## 🧰 Languages and Tools:
 <p align="center">
@@ -29,6 +28,10 @@ _<em> An aspiring JAVA Backend Developer, having willingness to walk extra miles
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
 </p>
+
 </br>
-# My Gihub Stats
-<a href="https://github.com/thesharmaa/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=thesharmaa&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Aman's github stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesharmaa8&theme=github_dark&layout=compact&hide_border=true" /></a>
+
+## My Github Stats:
+</br>
+<a href="https://github.com/thesharmaa/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=thesharmaa&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Kevin's github stats" width=380px /></a> <a href="https://github.com/thesharmaa/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesharmaa&theme=github_dark&layout=compact&hide_border=true" /></a>
+
