@@ -1,7 +1,7 @@
-###                                                                Hi 👋 I'm Aman Sharma
+<h1 align="center">Hi 👋 I'm Aman Sharma</h1>
 
-<!--
-**thesharmaa/thesharmaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+_<em> An aspiring JAVA Backend Developer, having willingness to walk extra miles to achieve my goals. Currently pursuing Full Stack Web Development programme of 30 weeks in Masai School</em> _
 
 Here are some ideas to get you started:
 
