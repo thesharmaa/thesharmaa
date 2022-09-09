@@ -3,14 +3,22 @@
 
 _<em> An aspiring JAVA Backend Developer, having willingness to walk extra miles to achieve my goals. Currently pursuing Full Stack Web Development programme of 30 weeks in Masai School</em> _
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
+![](https://komarev.com/ghpvc/?username=thesharmaa)
+
+
+
+
+
+
+
+<img align="center">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thesharmaa)](https://git.io/streak-stats)</img>
