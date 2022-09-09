@@ -23,7 +23,7 @@ _<em> An aspiring JAVA Backend Developer, having willingness to walk extra miles
 
 ## 🧰 Languages and Tools:
 <p align="center">
-<img src=["https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2017%2F08%2F05%2F11%2F16%2Flogo-2582748_640.png&imgrefurl=https%3A%2F%2Fpixabay.com%2Fillustrations%2Flogo-html-html5-icon-2582748%2F&tbnid=I41HU9keYhre2M&vet=12ahUKEwir8KbVyYf6AhWjpukKHb7hCB4QMygEegUIARDjAQ..i&docid=jAj23LMExSwN_M&w=640&h=640&q=html%20image&ved=2ahUKEwir8KbVyYf6AhWjpukKHb7hCB4QMygEegUIARDjAQ)" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
