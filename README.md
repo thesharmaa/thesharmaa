@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JAVA, Spring Boot, Hibernate**
 
-- 👨‍💻 All of my projects are available at (https://thesharmaa.github.io/)
+- 👨‍💻 All of my projects are available at [thesharmaa@github.io](thesharmaa@github.io)
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aman-sharma-697454234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-sharma-697454234" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/sharmaamanjsr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sharmaamanjsr/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sharmaamanjsr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sharmaamanjsr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
