@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JAVA, Spring Boot, Hibernate**
 
-- 👨‍💻 All of my projects are available at [thesharmaa@github.io](thesharmaa@github.io)
+- 👨‍💻 All of my projects are available at [https://thesharmaa.github.io/]
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
