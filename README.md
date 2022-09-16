@@ -1,37 +1,32 @@
-<h1 align="center">Hi 👋 I'm Aman Sharma</h1>
+<h1 align="center">Hi 👋, I'm Aman Sharma</h1>
+<h3 align="center">An aspiring JAVA Backend Developer, having willingness to walk extra miles to achieve my goals. Currently pursuing Full Stack Web Development programme of 30 weeks in Masai School</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thesharmaa&label=Profile%20views&color=0e75b6&style=flat" alt="thesharmaa" /> </p>
 
--<em> An aspiring JAVA Backend Developer, having willingness to walk extra miles to achieve my goals. Currently pursuing Full Stack Web Development programme of 30 weeks in Masai School</em> 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thesharmaa" alt="thesharmaa" /></a> </p>
 
+- 🌱 I’m currently learning **JAVA, Spring Boot, Hibernate**
 
-![](https://komarev.com/ghpvc/?username=thesharmaa)
+- 👨‍💻 All of my projects are available at [thesharmaa@github.io](thesharmaa@github.io)
 
+- 💬 Ask me about **HTML, CSS, JavaScript**
 
+- 📫 How to reach me **sharmaamanjsr@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1L2h-BiLyPHwYb5DDYNg01fjEd8ooEJj1/view?usp=sharing](https://drive.google.com/file/d/1L2h-BiLyPHwYb5DDYNg01fjEd8ooEJj1/view?usp=sharing)
 
-## ✉️ Find me on:
-
-
-<p align="center">
- <a href="https://github.com/thesharmaa" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://www.linkedin.com/in/aman-sharma-697454234/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="sharmaamanjsr@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/aman-sharma-697454234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aman-sharma-697454234/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/sharmaamanjsr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sharmaamanjsr/" height="30" width="40" /></a>
 </p>
 
-</br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
 
-## 🧰 Languages and Tools:
-<p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesharmaa&show_icons=true&locale=en&layout=compact" alt="thesharmaa" /></p>
 
-</br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thesharmaa&show_icons=true&locale=en" alt="thesharmaa" /></p>
 
-## My Github Stats:
-</br>
-<a href="https://github.com/thesharmaa/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=thesharmaa&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Kevin's github stats" width=430px /></a> <a href="https://github.com/thesharmaa/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesharmaa&theme=github_dark&layout=compact&hide_border=true" width=400px/></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesharmaa&" alt="thesharmaa" /></p>
 
