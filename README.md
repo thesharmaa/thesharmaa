@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
-- 👨‍💻 My Portfolio [Portfolio](https://thesharmaa.github.io/
+- 👨‍💻 My Portfolio [Portfolio](https://thesharmaa.github.io/) 
 
 - 🌱 I’m currently learning **JAVA, Spring Boot, Hibernate**
 - 📫 How to reach me **sharmaamanjsr@gmail.com**
