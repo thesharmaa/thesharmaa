@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **JAVA, Spring Boot, Hibernate**
 
-- 👨‍💻 All of my projects are available at [(thesharmaa.github.io)](https://thesharmaa.github.io/)
-
 - 💬 Ask me about **HTML, CSS, JavaScript**
+
+- 👨‍💻 My Portfolio [Portfolio](https://thesharmaa.github.io/)
 
 - 📫 How to reach me **sharmaamanjsr@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1L2h-BiLyPHwYb5DDYNg01fjEd8ooEJj1/view?usp=sharing](https://drive.google.com/file/d/1L2h-BiLyPHwYb5DDYNg01fjEd8ooEJj1/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1L2h-BiLyPHwYb5DDYNg01fjEd8ooEJj1/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
