@@ -3,13 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesharmaa&label=Profile%20views&color=0e75b6&style=flat" alt="thesharmaa" /> </p>
 
-
+<img align="right" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="aman-sharma-697454234" height="300" width="500" />
 - 🌱 I’m currently learning **JAVA, Spring Boot, Hibernate**
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
-- 👨‍💻 My Portfolio [Portfolio](https://thesharmaa.github.io/)
+- 👨‍💻 My Portfolio [Portfolio](https://thesharmaa.github.io/
 
+- 🌱 I’m currently learning **JAVA, Spring Boot, Hibernate**
 - 📫 How to reach me **sharmaamanjsr@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1L2h-BiLyPHwYb5DDYNg01fjEd8ooEJj1/view?usp=sharing)
