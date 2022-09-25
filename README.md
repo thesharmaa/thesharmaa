@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesharmaa&label=Profile%20views&color=0e75b6&style=flat" alt="thesharmaa" /> </p>
 
-<img align="right" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="aman-sharma-697454234" height="300" width="600" />
+<img align="right" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="aman-sharma-697454234" height="350" width="600" />
 
 - 💬 Ask me about **JAVA, HTML, CSS, JavaScript**
 
