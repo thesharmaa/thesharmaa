@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **JAVA, Spring Boot, Hibernate**
 - 📫 How to reach me **sharmaamanjsr@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1L2h-BiLyPHwYb5DDYNg01fjEd8ooEJj1/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/u/0/folders/1BXGETplIsWtOi3t-mWTgeAE5oKXUbnzh)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
