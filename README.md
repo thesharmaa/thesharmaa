@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Sharma</h1>
-<h3 align="center">An aspiring JAVA Backend Developer, having willingness to walk extra miles to achieve my goals. Currently pursuing Full Stack Web Development programme of 30 weeks in Masai School</h3>
+<h3 align="center">An aspiring JAVA Backend Developer, having willingness to walk extra miles to achieve my goals.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesharmaa&label=Profile%20views&color=0e75b6&style=flat" alt="thesharmaa" /> </p>
 
