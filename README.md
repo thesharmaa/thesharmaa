@@ -7,12 +7,12 @@
 
 - 💬 Ask me about **JAVA, HTML, CSS, JavaScript**
 
-- 👨‍💻 My Portfolio [Portfolio](https://thesharmaa.github.io/) 
+- 👨‍💻 My Portfolio [Portfolio
 
 - 🌱 I’m currently learning **JAVA, Spring Boot, Hibernate**
 - 📫 How to reach me **sharmaamanjsr@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1iWQcpWB1KX2DYJ5K80ghlaS9WPGm4XCB/view?usp=sharing)
+- 📄 Know about my experiences 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
