@@ -10,9 +10,8 @@ Currently working in a client-facing technical role and building my skills in De
 
 ## 🚀 About Me
 
-- 💼 Working at **Oracle Health** as a **Change Implementation Analyst**
-- 🌱 Currently learning **DevOps, Docker, Kubernetes, CI/CD, AWS, Terraform**
-- 💬 Ask me about **DevOps Basics, Linux, Git, Cloud Fundamentals**
+- 💼 Working at **Oracle** as a **Analyst**
+- 🌱 Currently learning **Networking, Linux, Git, Ansible, Argo CD, Prometheus, Grafana, Agentic AI, Docker, Kubernetes, CI/CD, AWS, Terraform**
 - 📫 Reach me at **sharmaamanjsr@gmail.com**
 - ⚡ Interested in **automation, system reliability, and scalable infrastructure**
 
@@ -20,13 +19,13 @@ Currently working in a client-facing technical role and building my skills in De
 
 ## 💼 Professional Experience
 
-### **Change Implementation Analyst — Oracle Health**
+### **Analyst — Oracle**
 
-- Gather implementation and enhancement requirements from **client stakeholders** to ensure smooth transitions across **non-production and production environments**.
+- Gather implementation and enhancement requirements from **client stakeholders** to ensure smooth transitions across **non production and production environments**.
 
-- Resolve **client-reported issues** as part of the **AMS SWx support team**, ensuring timely troubleshooting and resolution.
+- Resolve **client reported issues** as part of the **AMS SWx support team**, ensuring timely troubleshooting and resolution.
 
-- Use **Cerner Command Language (CCL)**, a **SQL-based query language**, to troubleshoot and analyze data within the **Oracle Database** for Millennium systems.
+- Use **Cerner Command Language (CCL)**, a **SQL based query language**, to troubleshoot and analyze data within the **Oracle Database** for Millennium systems.
 
 - Execute and troubleshoot **automation scripts in Linux environments** to implement and validate **backend configuration changes**.
 
@@ -35,7 +34,7 @@ Currently working in a client-facing technical role and building my skills in De
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/aman-sharma-697454234" target="blank">
+<a href="https://www.linkedin.com/in/amansharma6/" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 <a href="https://github.com/thesharmaa" target="blank">
@@ -52,7 +51,7 @@ Currently working in a client-facing technical role and building my skills in De
 <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,terraform,jenkins,git" />
 </p>
 
-### Database & Scripting
+### Database
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,bash" />
 </p>
