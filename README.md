@@ -51,11 +51,6 @@ Currently working in a client-facing technical role and building my skills in De
 <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,terraform,jenkins,git" />
 </p>
 
-### Database
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,bash" />
-</p>
-
 
 ---
 
