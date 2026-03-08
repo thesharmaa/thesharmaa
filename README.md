@@ -54,6 +54,12 @@ Currently working in a client-facing technical role and building my skills in De
 
 ---
 
+## Other
+
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)]([https://medium.com/@yourusername](https://medium.com/@sharmaamanjsr))
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
