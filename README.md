@@ -74,9 +74,7 @@ Currently working in a client-facing technical role and building my skills in De
 
 ## 📈 Most Used Languages
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesharmaa&layout=compact&theme=tokyonight&count_private=true&cache_seconds=1800" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesharmaa&layout=compact&theme=tokyonight&langs_count=8" />
 
 ---
 
