@@ -1,24 +1,32 @@
-## 🧠 About Me
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&lines=Oracle+Health+Analyst;Cloud+%26+DevOps+Engineer;Linux+%7C+Docker+%7C+Kubernetes+%7C+Terraform;Building+Scalable+Infrastructure;Automating+Everything+Possible;Always+Learning+Always+Building" />
-</p>
-<p align="center">
+<h1 align="center">Hi, I'm Aman Sharma 👋</h1>
+<h3 align="center">Cloud & DevOps Engineer | Building Automated, Observable & Scalable Infrastructure</h3>
 
-<img src="https://img.shields.io/badge/Focus-Cloud%20Engineering-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DevOps-Automation-8B5CF6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Kubernetes-Orchestration-6366F1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Terraform-IaC-A855F7?style=for-the-badge" />
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Automate+Everything.+Monitor+Everything.;Scale+Confidently.;Infrastructure+as+Code+%7C+Cloud+Native;Currently+%40+Oracle+Health" alt="Typing SVG" />
 </p>
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDFlNGN0cjA1ZmVwM3Q3cGV0bHFwaHduNnh4MzJ2eGxrbm80a3QzMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
+---
+
+### 🚀 About Me
+
+I currently work at **Oracle Health**, supporting enterprise-scale healthcare systems that power critical workflows for healthcare organizations across the United States.
+
+My day-to-day involves:
+
+- 🔍 Troubleshooting production incidents in large-scale enterprise environments
+- 🐧 Working with Linux-based systems
+- 🗄️ Analyzing backend systems using SQL & Oracle Database
+- ⚙️ Implementing and validating enterprise application changes
+- 🤝 Collaborating with cross-functional technical teams
+- 📈 Ensuring reliability for business-critical healthcare platforms
+
+Beyond my professional role, I'm actively transitioning into **Cloud & DevOps Engineering**, building hands-on expertise in modern cloud-native technologies and platform engineering.
+
+---
+
+### ☁️ What I'm Focused On
 
 ```yaml
-name: Aman Sharma
-role: Cloud & DevOps Engineer
-current_company: Oracle Health
-location: India
-
 focus:
   - Cloud Infrastructure
   - Kubernetes
@@ -33,69 +41,29 @@ currently_learning:
   - Terraform
   - GitOps
   - Observability
-
-philosophy:
-  "Automate everything. Monitor everything. Scale confidently."
-```
-
-### 🚀 Building the Future of Infrastructure
-
-I currently work at **Oracle Health**, supporting enterprise-scale healthcare systems that power critical workflows for healthcare organizations across the United States.
-
-My day-to-day responsibilities involve:
-
-* 🔍 Troubleshooting production incidents
-* 🐧 Working with Linux-based environments
-* 🗄️ Analyzing backend systems using SQL & Oracle Database
-* ⚙️ Implementing and validating enterprise application changes
-* 🤝 Collaborating with cross-functional technical teams
-* 📈 Ensuring reliability for business-critical healthcare platforms
-
-Working in large-scale enterprise environments has given me a strong foundation in **system operations, incident management, troubleshooting, reliability, and backend engineering**.
-
----
-
-### ☁️ Transitioning from Enterprise Support to Cloud & DevOps Engineering
-
-Beyond my professional role, I am actively building expertise in modern cloud-native technologies through hands-on projects and continuous learning.
-
-I enjoy designing systems that are:
-
-✅ Automated
-✅ Observable
-✅ Scalable
-✅ Resilient
-✅ Production Ready
-
-My current engineering toolkit includes:
-
-```text
-Cloud         → AWS
-Containers    → Docker
-Orchestration → Kubernetes
-IaC           → Terraform
-CI/CD         → GitHub Actions
-Monitoring    → Prometheus & Grafana
-OS            → Linux
-Version Ctrl  → Git & GitHub
 ```
 
 ---
 
-### 🔥 What Excites Me
+### 🛠️ Engineering Toolkit
 
-* Building cloud-native infrastructure
-* Automating deployment workflows
-* Designing CI/CD pipelines
-* Infrastructure as Code (IaC)
-* Kubernetes & Container Platforms
-* Monitoring & Observability
-* Platform Engineering
-* Site Reliability Engineering (SRE)
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 ---
 
-### 📊 Engineering Mindset
+### 📊 My Engineering Mindset
 
 ```mermaid
 graph LR
@@ -107,22 +75,44 @@ E --> F[Improve]
 F --> A
 ```
 
-I am passionate about understanding how software moves from **development → deployment → production → scale** and how engineering teams can leverage automation to deliver reliable systems faster.
+---
+
+### 🔥 What Excites Me
+
+- Building cloud-native infrastructure
+- Automating deployment workflows end-to-end
+- Designing resilient CI/CD pipelines
+- Infrastructure as Code (IaC)
+- Kubernetes & container platforms
+- Monitoring & observability
+- Platform Engineering & SRE practices
 
 ---
 
 ### 🎯 Career Objective
 
-My goal is to contribute to high-performing engineering teams as a **DevOps Engineer, Cloud Engineer, Platform Engineer, or Site Reliability Engineer**, helping organizations build secure, scalable, and highly available infrastructure through automation and cloud-native technologies.
+> Aspiring to contribute to high-performing engineering teams as a **DevOps Engineer**, **Cloud Engineer**, **Platform Engineer**, or **Site Reliability Engineer** — helping organizations build secure, scalable, and highly available infrastructure through automation and cloud-native technologies.
 
 ---
 
-<div align="center">
-
 ### ⚡ Current Mission
 
-**Turning manual processes into automation**
-**Turning infrastructure into code**
-**Turning complexity into reliability**
+```
+Turning manual processes  → into automation
+Turning infrastructure    → into code
+Turning complexity        → into reliability
+```
 
-</div>
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amansharma&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amansharma&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  📍 India &nbsp;|&nbsp; 📫 Let's connect and build something reliable together
+</p>
