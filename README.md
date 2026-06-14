@@ -117,7 +117,6 @@ style F fill:#8E2DE2,stroke:#fff,color:#fff
 
 </div>
 
-> 💡 *Replace the `repo=` values above with your actual repository names — these auto-generate live preview cards.*
 
 ---
 
@@ -172,7 +171,7 @@ Turning complexity        → into reliability
 
 </div>
 
-> 💡 This animates your commit graph. Add the included GitHub Action workflow (`snake.yml`) to `.github/workflows/` in your `thesharmaa/thesharmaa` repo — it runs automatically and generates this image.
+
 
 ---
 
