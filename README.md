@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Automate+Everything.+Monitor+Everything.;Scale+Confidently.;Infrastructure+as+Code+%7C+Cloud+Native;Currently+%40+Oracle+Health;Building+Production-Grade+Kubernetes+Systems" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=amansharma&style=for-the-badge&color=2E9EF7&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=thesharmaa&style=for-the-badge&color=2E9EF7&label=PROFILE+VIEWS" />
 </p>
 
 </div>
@@ -98,17 +98,17 @@ style F fill:#8E2DE2,stroke:#fff,color:#fff
 <div align="center">
 
 <a href="#">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=amansharma&repo=k8s-gitops-pipeline&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=thesharmaa&repo=k8s-gitops-pipeline&theme=tokyonight&hide_border=true" />
 </a>
 <a href="#">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=amansharma&repo=terraform-aws-eks-cluster&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=thesharmaa&repo=terraform-aws-eks-cluster&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="#">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=amansharma&repo=observability-stack&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=thesharmaa&repo=observability-stack&theme=tokyonight&hide_border=true" />
 </a>
 <a href="#">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=amansharma&repo=cicd-github-actions-templates&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=thesharmaa&repo=cicd-github-actions-templates&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -149,11 +149,11 @@ Turning complexity        → into reliability
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amansharma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amansharma&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=thesharmaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thesharmaa&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansharma&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amansharma&theme=tokyo-night&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesharmaa&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thesharmaa&theme=tokyo-night&hide_border=true" height="165"/>
 
 </div>
 
@@ -163,7 +163,7 @@ Turning complexity        → into reliability
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/amansharma/amansharma/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/thesharmaa/thesharmaa/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
@@ -175,9 +175,8 @@ Turning complexity        → into reliability
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/amansharma6/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sharmaamanjsr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
