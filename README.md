@@ -29,15 +29,25 @@
 
 ## 🧠 About Me
 
-I'm a results-driven engineer working at **Oracle** as an Analyst, specializing in **cloud infrastructure, automation, and system reliability**. My work spans troubleshooting production systems, building CI/CD pipelines, and architecting Infrastructure-as-Code solutions. I bring a product-engineering mindset to DevOps — focusing on developer experience, observability, and resilient systems that scale.
+I am currently working at Oracle Health as a Change Implementation Analyst, supporting US healthcare clients by implementing, configuring, and managing changes across enterprise healthcare applications. My role involves analyzing system requirements, troubleshooting production issues, validating application changes, and ensuring seamless delivery of critical healthcare workflows.
 
-I'm actively expanding into **Agentic AI and ML-powered automation**, exploring how intelligent agents can streamline incident response, infrastructure provisioning, and operational decision-making.
+I have hands-on experience with SQL and Linux, enabling me to work effectively with backend systems, perform data analysis, investigate application issues, running the scripts in backend and understand enterprise-scale system architectures.
 
-**Core Focus:**
-- Building scalable, automated, and reliable infrastructure
-- Bridging software engineering with cloud-native operations
-- AI/ML-driven automation for DevOps workflows
-- Full-stack systems thinking applied to infrastructure problems
+Alongside my current role, I am actively building expertise in DevOps and Cloud Engineering through hands-on projects and continuous learning. My technical focus includes:
+
+• Containerization using Docker
+• Container orchestration with Kubernetes
+• CI/CD pipeline automation using GitHub Actions
+• Cloud computing fundamentals and AWS services
+• Infrastructure automation and Infrastructure as Code (IaC) concepts
+• Version control and collaborative development using Git and GitHub
+
+I am passionate about understanding how modern systems are designed, deployed, monitored, and scaled in production environments. My interests lie in automation, cloud infrastructure, deployment pipelines, system reliability, and operational excellence.
+
+My goal is to transition into a DevOps / Cloud Engineering role where I can contribute to building scalable infrastructure, automating software delivery processes, improving system reliability, and enabling efficient developer workflows through modern DevOps practices.
+
+I am continuously expanding my hands-on experience by working on real-world projects focused on cloud technologies, CI/CD automation, container platforms, and infrastructure management.
+
 
 > Philosophy: *Automate everything, monitor everything, scale with confidence.*
 
@@ -45,7 +55,6 @@ I'm actively expanding into **Agentic AI and ML-powered automation**, exploring 
 
 - ✅ DevOps / SRE / Platform Engineering Roles
 - ✅ Cloud Infrastructure & Automation Projects
-- ✅ AI-Driven DevOps & MLOps Opportunities
 - ✅ Open Source Collaboration
 - ✅ Freelance Infrastructure Consulting
 
@@ -197,42 +206,12 @@ Working within the AMS SWx support team, providing implementation, enhancement, 
 |-------------|---------|
 | 🌟 Client Appreciation | Recognized for rapid resolution of critical production incidents |
 | 📈 Process Improvement | Contributed to automation scripts reducing manual config time |
-| 🎓 Continuous Learning | Completed multiple certifications in Cloud, DevOps & AI |
 
 </div>
 
 ---
 
-## 📜 Certifications
 
-**AWS**
-
-![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-**Oracle**
-
-![Oracle Cloud Infrastructure](https://img.shields.io/badge/Oracle-Cloud%20Infrastructure-8B5CF6?style=for-the-badge&logo=oracle&logoColor=white)
-
-**NPTEL**
-
-![NPTEL Cloud Computing](https://img.shields.io/badge/NPTEL-Cloud%20Computing-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
-
-**Cisco**
-
-![Cisco Networking Basics](https://img.shields.io/badge/Cisco-Networking%20Basics-A78BFA?style=for-the-badge&logo=cisco&logoColor=white)
-
----
-
-## 💻 Coding Profiles
-
-<p align="center">
-<a href="https://leetcode.com/thesharmaa"><img src="https://img.shields.io/badge/LeetCode-9F7AEA?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-<a href="https://www.geeksforgeeks.org/user/thesharmaa"><img src="https://img.shields.io/badge/GeeksforGeeks-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-<a href="https://www.hackerrank.com/thesharmaa"><img src="https://img.shields.io/badge/HackerRank-6D28D9?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-<a href="https://www.codechef.com/users/thesharmaa"><img src="https://img.shields.io/badge/CodeChef-8B5CF6?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-</p>
-
----
 
 ## 📊 GitHub Analytics
 
@@ -247,14 +226,6 @@ Working within the AMS SWx support team, providing implementation, enhancement, 
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=thesharmaa&theme=discord&no-frame=true&row=1&column=6&margin-w=8" />
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -263,28 +234,10 @@ Working within the AMS SWx support team, providing implementation, enhancement, 
 
 ---
 
-## 🎯 Current Focus
-
-**Learning**
-- Agentic AI & LLM-driven automation
-- Advanced Kubernetes & Service Mesh (Istio)
-- Site Reliability Engineering (SRE) practices
-- Terraform advanced module design
-
-**Building**
-- End-to-end CI/CD pipelines with security gates
-- AI-assisted monitoring & alerting systems
-- Reusable Terraform infrastructure modules
-
-**Exploring**
-- GitOps workflows with ArgoCD
-- Observability stacks (Prometheus, Grafana, Loki)
-- Cloud cost optimization strategies
 
 **Open To**
 - DevOps / Cloud Engineering roles
 - Collaborative open-source projects
-- AI + Infrastructure intersection work
 
 ---
 
