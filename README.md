@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E2DE2&height=220&section=header&text=Aman%20Sharma&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20Automation%20%7C%20SRE&descAlignY=55&descSize=20" />
+# 👋 Hi, I'm Aman Sharma
+
+### Cloud & DevOps Engineer | Automation | SRE
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Automate+Everything.+Monitor+Everything.;Scale+Confidently.;Infrastructure+as+Code+%7C+Cloud+Native;Currently+%40+Oracle+Health;Building+Production-Grade+Kubernetes+Systems" />
 
@@ -50,7 +52,9 @@ Beyond my professional role, I'm actively transitioning into **Cloud & DevOps En
 <img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" />
 
 ### OS, Languages & Databases
-<img src="https://skillicons.dev/icons?i=linux,bash,python,oracle,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,bash,python,postgres&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 
 </div>
 
@@ -163,11 +167,12 @@ Turning complexity        → into reliability
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/thesharmaa/thesharmaa/output/github-contribution-grid-snake-dark.svg" />
+<!-- Add .github/workflows/snake.yml (provided separately) to enable this -->
+<img src="https://raw.githubusercontent.com/thesharmaa/thesharmaa/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 </div>
 
-> 💡 *To enable this animated snake of your commit graph, add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to your profile repo — it auto-generates `github-contribution-grid-snake-dark.svg` on every push.*
+> 💡 This animates your commit graph. Add the included GitHub Action workflow (`snake.yml`) to `.github/workflows/` in your `thesharmaa/thesharmaa` repo — it runs automatically and generates this image.
 
 ---
 
@@ -179,5 +184,3 @@ Turning complexity        → into reliability
 <a href="mailto:sharmaamanjsr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:2E9EF7&height=120&section=footer" />
