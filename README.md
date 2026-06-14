@@ -1,15 +1,27 @@
-<h1 align="center">Hi, I'm Aman Sharma 👋</h1>
-<h3 align="center">Cloud & DevOps Engineer | Building Automated, Observable & Scalable Infrastructure</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Automate+Everything.+Monitor+Everything.;Scale+Confidently.;Infrastructure+as+Code+%7C+Cloud+Native;Currently+%40+Oracle+Health" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E2DE2&height=220&section=header&text=Aman%20Sharma&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20Automation%20%7C%20SRE&descAlignY=55&descSize=20" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Automate+Everything.+Monitor+Everything.;Scale+Confidently.;Infrastructure+as+Code+%7C+Cloud+Native;Currently+%40+Oracle+Health;Building+Production-Grade+Kubernetes+Systems" />
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=amansharma&style=for-the-badge&color=2E9EF7&label=PROFILE+VIEWS" />
 </p>
+
+</div>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
 I currently work at **Oracle Health**, supporting enterprise-scale healthcare systems that power critical workflows for healthcare organizations across the United States.
+
+```yaml
+role:        Cloud & DevOps Engineer
+company:     Oracle Health
+location:    India
+philosophy:  "Automate everything. Monitor everything. Scale confidently."
+```
 
 My day-to-day involves:
 
@@ -24,46 +36,27 @@ Beyond my professional role, I'm actively transitioning into **Cloud & DevOps En
 
 ---
 
-### ☁️ What I'm Focused On
+## 🛠️ Tech Stack
 
-```yaml
-focus:
-  - Cloud Infrastructure
-  - Kubernetes
-  - CI/CD Automation
-  - Infrastructure as Code
-  - Platform Engineering
-  - Site Reliability Engineering
+<div align="center">
 
-currently_learning:
-  - Advanced Kubernetes
-  - AWS Services
-  - Terraform
-  - GitOps
-  - Observability
-```
+### Cloud & Infrastructure
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes&theme=dark" />
 
----
+### CI/CD & Version Control
+<img src="https://skillicons.dev/icons?i=githubactions,git,github,jenkins&theme=dark" />
 
-### 🛠️ Engineering Toolkit
+### Observability
+<img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" />
 
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+### OS, Languages & Databases
+<img src="https://skillicons.dev/icons?i=linux,bash,python,oracle,postgres&theme=dark" />
+
+</div>
 
 ---
 
-### 📊 My Engineering Mindset
+## 📊 My Engineering Mindset
 
 ```mermaid
 graph LR
@@ -73,11 +66,58 @@ C --> D[Deploy]
 D --> E[Monitor]
 E --> F[Improve]
 F --> A
+
+style A fill:#2E9EF7,stroke:#fff,color:#fff
+style B fill:#2E9EF7,stroke:#fff,color:#fff
+style C fill:#2E9EF7,stroke:#fff,color:#fff
+style D fill:#8E2DE2,stroke:#fff,color:#fff
+style E fill:#8E2DE2,stroke:#fff,color:#fff
+style F fill:#8E2DE2,stroke:#fff,color:#fff
 ```
 
 ---
 
-### 🔥 What Excites Me
+## 🌱 Currently Learning
+
+<div align="center">
+
+| Area | Focus |
+|---|---|
+| ☸️ **Kubernetes** | Advanced workloads, operators, HPA/VPA, service mesh |
+| ☁️ **AWS** | EC2, EKS, VPC, IAM, Lambda, CloudWatch |
+| 🌍 **Terraform** | Modular IaC, remote state, multi-env provisioning |
+| 🔁 **GitOps** | ArgoCD / Flux driven deployment workflows |
+| 📈 **Observability** | Prometheus + Grafana + Alertmanager stacks |
+
+</div>
+
+---
+
+## 💼 Featured Projects
+
+<div align="center">
+
+<a href="#">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=amansharma&repo=k8s-gitops-pipeline&theme=tokyonight&hide_border=true" />
+</a>
+<a href="#">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=amansharma&repo=terraform-aws-eks-cluster&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="#">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=amansharma&repo=observability-stack&theme=tokyonight&hide_border=true" />
+</a>
+<a href="#">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=amansharma&repo=cicd-github-actions-templates&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+> 💡 *Replace the `repo=` values above with your actual repository names — these auto-generate live preview cards.*
+
+---
+
+## 🔥 What Excites Me
 
 - Building cloud-native infrastructure
 - Automating deployment workflows end-to-end
@@ -89,15 +129,15 @@ F --> A
 
 ---
 
-### 🎯 Career Objective
+## 🎯 Career Objective
 
 > Aspiring to contribute to high-performing engineering teams as a **DevOps Engineer**, **Cloud Engineer**, **Platform Engineer**, or **Site Reliability Engineer** — helping organizations build secure, scalable, and highly available infrastructure through automation and cloud-native technologies.
 
 ---
 
-### ⚡ Current Mission
+## ⚡ Current Mission
 
-```
+```text
 Turning manual processes  → into automation
 Turning infrastructure    → into code
 Turning complexity        → into reliability
@@ -105,14 +145,40 @@ Turning complexity        → into reliability
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amansharma&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" />
-</p>
+## 📈 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amansharma&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<div align="center">
 
-<p align="center">
-  📍 India &nbsp;|&nbsp; 📫 Let's connect and build something reliable together
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=amansharma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amansharma&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansharma&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amansharma&theme=tokyo-night&hide_border=true" height="165"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/amansharma/amansharma/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+> 💡 *To enable this animated snake of your commit graph, add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to your profile repo — it auto-generates `github-contribution-grid-snake-dark.svg` on every push.*
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:2E9EF7&height=120&section=footer" />
