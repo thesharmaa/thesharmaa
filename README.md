@@ -156,20 +156,13 @@ Turning complexity        → into reliability
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=thesharmaa&theme=tokyonight&hide_border=true" height="165"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesharmaa&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thesharmaa&theme=tokyo-night&hide_border=true" height="165"/>
+
 
 </div>
 
 ---
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<!-- Add .github/workflows/snake.yml (provided separately) to enable this -->
-<img src="https://raw.githubusercontent.com/thesharmaa/thesharmaa/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-
-</div>
+# Commits
+![Aman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thesharmaa&theme=github)
 
 
 
