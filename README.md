@@ -20,25 +20,25 @@ Focused on building **highly available, scalable, secure, and observable cloud-n
 
 ## 🛠️ Core DevOps Skills
 
-Linux • Networking (DNS, TCP/IP, HTTP/HTTPS) • Git • GitHub • GitHub CLI  
+- Linux • Networking (DNS, TCP/IP, HTTP/HTTPS) • Git • GitHub • GitHub CLI  
 
-Bash Scripting • Python Automation • System Automation  
+- Bash Scripting • Python Automation • System Automation  
 
-Docker • Containerization • Docker Security • Image Optimization  
+- Docker • Containerization • Docker Security • Image Optimization  
 
-CI/CD Pipelines • Jenkins • GitHub Actions • GitLab CI  
+- CI/CD Pipelines • Jenkins • GitHub Actions • GitLab CI  
 
-AWS (EC2, IAM, VPC, EKS, CloudWatch) • Azure Fundamentals  
+- AWS (EC2, IAM, VPC, EKS, CloudWatch) • Azure Fundamentals  
 
-Terraform (Infrastructure as Code) • Remote State • Multi-Environment Deployments  
+- Terraform (Infrastructure as Code) • Remote State • Multi-Environment Deployments  
 
-Ansible (Configuration Management & Automation)  
+- Ansible (Configuration Management & Automation)  
 
-Kubernetes (Pods, Deployments, Services, Ingress, HPA/VPA, Operators)  
+- Kubernetes (Pods, Deployments, Services, Ingress, HPA/VPA, Operators)  
 
-GitOps (ArgoCD, Flux CD)  
+- GitOps (ArgoCD, Flux CD)  
 
-Observability (Prometheus, Grafana, Alertmanager, Logging, Monitoring)
+- Observability (Prometheus, Grafana, Alertmanager, Logging, Monitoring)
 
 ---
 
@@ -72,25 +72,25 @@ Automated Linux-based system for log rotation, backup management, and cleanup au
 
 ## ☁️ Cloud & DevOps Focus Areas
 
-Cloud Infrastructure Design (AWS / Azure)
+- Cloud Infrastructure Design (AWS / Azure)
 
-Networking & Core Systems
+- Networking & Core Systems
 
-Infrastructure as Code (Terraform)
+- Infrastructure as Code (Terraform)
 
-Configuration Management (Ansible)
+- Configuration Management (Ansible)
 
-Containerization (Docker)
+- Containerization (Docker)
 
-Kubernetes Platform Engineering
+- Kubernetes Platform Engineering
 
-CI/CD Pipeline Automation
+- CI/CD Pipeline Automation
 
-GitOps-based deployments (ArgoCD / Flux)
+- GitOps-based deployments (ArgoCD / Flux)
 
-Observability & Monitoring Systems
+- Observability & Monitoring Systems
 
-Production System Reliability (SRE practices)
+- Production System Reliability (SRE practices)
 
 ---
 
